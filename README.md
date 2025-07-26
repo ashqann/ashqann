@@ -1,16 +1,14 @@
-## Hi there 👋
+<h3 align="center">👋 سلام، من [اسم] هستم!</h3>
+<p align="center">فرانت‌اند دولوپر از ایران</p>
 
-<!--
-**ashqann/ashqann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠️ مهارت‌ها</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🌟 پروژه‌ها</h3>
+<p align="center">
+<a href="https://github.com/ashqann/first-gold-project">پروژه طلایی من ✨</a>
+</p>
